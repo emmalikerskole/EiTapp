@@ -1,0 +1,28 @@
+
+.tabell-container {
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px #ffffff;
+    object-fit: contain;
+    margin-top: -500px;
+}
+
+table {
+    margin-top: 300px;
+    width: 800px;
+    height: 200px;
+}
+
+th {
+
+
+  }
+    
+  td {
+    text-align: center;
+    flex-direction: column;
+  }
